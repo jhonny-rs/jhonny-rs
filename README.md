@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jhonny-rs
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML|CSS|JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Frontend Development
 - 📫 How to reach me on IG @jhonny_rs05
 
 <!---
