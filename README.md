@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jhonny-rs
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Frontend Development
+- 🌱 Computer Science (2024-) @ University of Brasilia (UnB)
 - 📫 How to reach me on IG @jhonny_rs05
 
 <!---
